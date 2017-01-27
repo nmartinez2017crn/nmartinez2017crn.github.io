@@ -1,0 +1,8 @@
+../imatges/
+../img/
+
+../iimatges/
+../img/
+
+file:///125/Users/agm2/Sites/m2c5w04/img
+../img/
