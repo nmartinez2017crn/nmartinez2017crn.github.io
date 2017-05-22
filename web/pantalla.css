@@ -1,0 +1,206 @@
+	body{
+		width:100%;
+		height: 100%;
+		font-size: 15px;
+		margin: 0;
+		font-family: sans-serif;
+		background-size: 100%;
+		
+	}
+
+	a{
+		text-decoration: none;
+		color: #FFF;
+	}
+
+
+	#columnas{
+   
+   
+   background-color:rgba(255,255,255,0.7);
+   width: 500px;
+   height: 500px;
+   text-align: center;
+   margin: 10px;
+   list-style: none;
+   float: left;
+}
+
+#arquitectura{
+   
+   
+    background-color:rgba(255,255,255,0.7);
+   width: 50%;
+   height: 100%;
+   text-align: center;
+   margin-left: 25%;
+   list-style: none;
+   float: left;
+   
+}
+
+#fauna{
+   
+   
+    background-color:rgba(255,255,255,0.7);
+   width: 50%;
+   height: 100%;
+   text-align: center;
+   margin-left: 25%;
+   list-style: none;
+   float: left;
+   
+}
+
+#historia{
+   
+   
+   background-color:rgba(255,255,255,0.7);
+   width: 50%;
+   height: 100%;
+   text-align: center;
+   margin-left: 25%;
+   list-style: none;
+   float: left;
+   
+}
+
+
+#accion{
+   
+   
+   background-color:rgba(255,255,255,0.7);
+   width: 500px;
+   height: 250px;
+   text-align: center;
+   list-style: none;
+   float: left;
+   margin-left: 5%;
+   margin-top: 10px;
+}
+
+#platos{
+
+	background-color:rgba(255,255,255,0.7);
+   width: 400px;
+   height: 300px;
+   text-align: center;
+   list-style: none;
+   float: left;
+   margin-left: 8%;
+}
+
+#festivos{
+
+	background-color:rgba(255,255,255,0.7);
+   width: 450px;
+   height: 500px;
+   text-align: center;
+   margin: 10px;
+   list-style: none;
+   float: left;
+   margin-left: 5%;
+
+}
+
+#hotels{
+
+	background-color:rgba(255,255,255,0.7);
+   width: 450px;
+   height:500px;
+   text-align: center;
+   margin: 10px;
+   list-style: none;
+   float: left;
+   margin-left: 5%;
+
+}
+
+#deportes{
+
+	background-color:rgba(255,255,255,0.7);
+   width: 50%;
+   height:100%;
+   text-align: center;
+   margin: 10px;
+   list-style: none;
+   float: left;
+   margin-left: 25%;
+
+}
+
+
+#restaurants{
+
+	background-color:rgba(255,255,255,0.7);
+   width: 50%;
+   height:100%;
+   text-align: center;
+   margin: 10px;
+   list-style: none;
+   float: left;
+   margin-left: 35%;
+
+}
+
+#deplegable{
+
+   margin-left: 30%;
+   
+}
+
+header {
+	width: 100%;
+	height: 10%;
+	background:#848484;
+	padding: 0 auto;
+   margin: 0 auto;
+}
+
+/*css menu*/
+
+#btn-menu {
+	display: none;
+}
+
+header label {
+	display: none;
+	width: 30px;
+	height: 20px;
+	margin: 0;
+	
+}
+
+header label:hover {
+	cursor: pointer;
+	background: rgba(0,0,0,0.3);
+}
+
+.menu ul {
+	margin: 0;
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content:center;
+	font-size: 18px;
+   font-family: Verdana;
+}
+.menu li {
+	
+}
+.menu li: hover {
+	background: rgba(0,0,0,0.3);
+}
+
+.menu li a {
+	display: block;
+	padding: 15px 20px;
+	color: #fff;
+	text-decoration: none;
+}
+
+
+	/*fin menu*/
+
+
+
