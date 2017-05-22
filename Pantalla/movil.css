@@ -1,0 +1,29 @@
+@media (max-width: 768px) {
+	header label{
+		display: block;
+	}
+	.menu{
+		position: absolute;
+		background:#848484;
+		width: 50%; 
+		margin-left: -50%;
+		transition: all 0.3s;
+	}
+	.menu ul{
+		flex-direction: column;
+
+	}
+	.menu li{
+		border-top: 1px solid #fff;
+
+	}
+
+	#btn-menu:checked ~ .menu {
+		margin: 0;
+
+	}
+
+	.menu li a:hover{
+
+		background-color: #cccccc;
+	}
